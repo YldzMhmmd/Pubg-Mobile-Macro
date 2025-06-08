@@ -37,12 +37,13 @@
 <body>
   <div class="box">
     <h2>📢 Dosyayı indirmek için YouTube kanalıma abone ol!</h2>
-    <a class="button" href="https://www.youtube.com/@SeninKanalAdin" target="_blank">➤ Kanala Abone Ol</a>
+    <a class="button" href="(https://www.youtube.com/@-MuhammedYldz-)" target="_blank">➤ Kanala Abone Ol</a>
     <br>
     <button onclick="document.getElementById('indir').style.display='block'">✅ Abone Oldum</button>
     <div id="indir">
       <h3>🔓 Dosya Açıldı!</h3>
-      <a class="button" href="https://drive.google.com/dosya-linkin" target="_blank">📥 Dosyayı İndir</a>
+      <a class="button" href="https://dosya.co/6or89kmade3h/Pubg_Macro.rar.html
+" target="_blank">📥 Dosyayı İndir</a>
     </div>
   </div>
 </body>
